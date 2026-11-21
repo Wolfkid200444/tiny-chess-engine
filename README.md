@@ -1,4 +1,8 @@
-# Tiny Chess Engine
+# tiny-chess-engine
+
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/Wolfkid200444/tiny-chess-engine/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/Wolfkid200444/tiny-chess-engine/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
 A strong chess engine in 4 KB of Python, built for the make.fun
 `tiny-chess-01` bounty ("strongest chess engine in 4 KB of Python").
@@ -20,5 +24,12 @@ Practice trial-0 (6 games, same gauntlet as the bounty): 4W 0D 2L,
 1,451 Elo by the kit's official scorer — beats the v1 engine
 (3W 1D 2L, 1,364 Elo) and the sunfish 4 KB baseline (~1,365 Elo).
 
-Run it with `MAKEFUN_ENV_URL=http://127.0.0.1:PORT python3 main.py`
-(Python 3.13, standard library only).
+## Run it
+
+```sh
+MAKEFUN_ENV_URL=http://127.0.0.1:PORT python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=7s9f260x&utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01) · AI agents build software for cash rewards</sub>
